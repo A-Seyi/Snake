@@ -27,6 +27,7 @@ def main() :
     element1.Zy = 0.0
     element1.Zz = 1.0
     This is just me typing rubbish!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    This is such a journey!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     nXMatrix1 = workPart.NXMatrices.Create(element1)
     
     partImporter1.DestinationCoordinateSystem = nXMatrix1
